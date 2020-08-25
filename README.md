@@ -8,4 +8,4 @@ _Basic project management app done using react, rudex and firebase. The app has 
 <br/>
 
 
-#restatrting soon!!
+### restatrting soon!!
